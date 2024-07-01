@@ -11,3 +11,4 @@
 - `rock_paper_scissors.py` - Conditions, boolean operators, comparisons, using the standard library
 - `using_modules.py` - Consuming modules and the import system
 
+Mirror test
